@@ -19,7 +19,7 @@ function App() {
               <Text>save money, spend freely and invest, with our tech-first, cloud based challenger bank and trading services.</Text>
               <Text>physical branches and unreliable online services are a thing of the past.</Text>
               <Text>and for that matter, banks making money off of unethical and unsustainable investments is not that great either.</Text>
-              <Text>whether you're a day trader, quant, developer, or just want to invest some money for your future.</Text>
+              <Text>whether you're a day trader, quant, developer, or just want to invest some money for your future;</Text>
               <Text>whether you're trading stocks, futures, options, crytocurrencies or etfs;</Text>
               <Text>if you just want to put some money aside and earn interest from from ethical investments we make with our cutting edge AI and data science technology;</Text>
               <Text fontWeight="bold">we've got you</Text>
