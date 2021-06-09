@@ -21,7 +21,7 @@ function App() {
               <Text>and for that matter, banks making money off of unethical and unsustainable investments is not that great either.</Text>
               <Text>whether you're a day trader, quant, developer, or just want to invest some money for your future;</Text>
               <Text>whether you're trading stocks, futures, options, crytocurrencies or etfs;</Text>
-              <Text>if you just want to put some money aside and earn interest from from ethical investments we make with our cutting edge AI and data science technology;</Text>
+              <Text>or if you just want to put some money aside and earn interest from from ethical investments we make with our cutting edge AI and data science technology;</Text>
               <Text fontWeight="bold">we've got you</Text>
               <Text>the first complete financial ecosystem built from the ground up with a focus on sustainability, ethics, and community.</Text>
               <Heading>coming soon.</Heading>
