@@ -1,16 +1,8 @@
-import React from 'react';
 import {
-  ChakraProvider,
-  Box,
-  Heading,
-  VStack,
-  HStack,
-  Text,
-  Grid,
-  theme,
+  Box, ChakraProvider, Heading, HStack,
+  Text, theme, VStack
 } from '@chakra-ui/react';
-import { ColorModeSwitcher } from './ColorModeSwitcher';
-import { Logo } from './Logo';
+import React from 'react';
 
 function App() {
   return (
