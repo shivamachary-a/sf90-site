@@ -15,7 +15,7 @@ function App() {
             <img style={{ height: "auto", width: "15vw", position: "relative" }} alt="" src="https://media.discordapp.net/attachments/692861972731002995/852264877326467082/Simulator_Screen_Shot_-_iPhone_12_Pro_Max_-_2021-06-09_at_20.15.20.png?width=578&height=1251"></img>
             <img style={{ height: "auto", width: "15vw", position: "relative", left: "-5vw" }} alt="" src="https://media.discordapp.net/attachments/692861972731002995/852264856634916874/Simulator_Screen_Shot_-_iPhone_12_Pro_Max_-_2021-06-09_at_20.15.28.png?width=578&height=1251"></img>
             <VStack>
-              <Heading>meet sf90</Heading>
+              <Heading>meet SF90</Heading>
               <Text>save money, spend freely and invest, with our tech-first, cloud based challenger bank and trading services.</Text>
               <Text>physical branches and unreliable online services are a thing of the past.</Text>
               <Text>and for that matter, banks making money off of unethical and unsustainable investments is not that great either.</Text>
