@@ -41,12 +41,19 @@ function Home() {
                 <Box bg="linear-gradient(90deg, rgba(55,11,194,0.7) 0%, rgba(9,43,254,0.8) 100%);"
                     backdropFilter="blur(18px)"
                 >
-                    <Box textAlign="center" fontSize="xl" position="relative" display="flex" justifyContent="center" alignItems="center" h="100vh" maxWidth="100vw">
+                    <Box textAlign="center" fontSize="xl" position="relative" display="flex" justifyContent="center" alignItems="center" h="100vh" maxWidth="100vw" overflow="hidden">
                         <VStack>
                             <HStack>
                                 <img style={{ height: "auto", width: "100vw", position: "relative", boxShadow: "box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );" }} alt="" src="https://i.ibb.co/89dpvVX/Rotato-Snapshot-Black.png"></img>
 
-                                <img style={{ height: "auto", width: "100vw", position: "relative", left: "-50vw", boxShadow: "box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );" }} alt="" src="https://i.ibb.co/rHfLZwc/Rotato-Snapshot-White.png"></img>
+                                <img style={{
+                                    height: "auto",
+                                    width: "100vw",
+                                    maxWidth: "100vw",
+                                    position: "relative",
+                                    left: "-60vw", boxShadow: "box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );",
+
+                                }} alt="" src="https://i.ibb.co/rHfLZwc/Rotato-Snapshot-White.png"></img>
                             </HStack>
                         </VStack>
                     </Box>
