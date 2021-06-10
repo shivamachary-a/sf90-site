@@ -11,10 +11,10 @@ function App() {
   if (!isMobile) {
     return (
       <ChakraProvider theme={theme}>
-<<<<<<< HEAD
+
         <NavBar></NavBar>
         <Home></Home>
-=======
+
         <VStack>
           <Box textAlign="center" fontSize="xl" position="relative" display="flex" justifyContent="left" alignItems="left" p="10vw" h="100vh" w="100vw">
 
@@ -31,7 +31,7 @@ function App() {
 
           </Box>
         </VStack>
->>>>>>> 6c56210f018de64bd20d70992e87b0b1f149952b
+
       </ChakraProvider >
     );
   } else {
