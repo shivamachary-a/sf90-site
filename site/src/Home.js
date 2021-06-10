@@ -1,5 +1,5 @@
 import { isMobile } from "react-device-detect";
-import { Grid, Box, VStack, HStack, Heading, ChakraProvider } from '@chakra-ui/react';
+import { Grid, Box, VStack, Heading, ChakraProvider } from '@chakra-ui/react';
 
 function Home() {
     if (!isMobile) {
