@@ -44,9 +44,9 @@ function Home() {
                     <Box textAlign="center" fontSize="xl" position="relative" display="flex" justifyContent="center" alignItems="center" h="100vh" w="50vw" maxWidth="50vw">
                         <VStack>
                             <HStack>
-                                <img style={{ height: "auto", width: "20vw", position: "relative", boxShadow: "box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );" }} alt="" src="https://i.ibb.co/89dpvVX/Rotato-Snapshot-Black.png"></img>
+                                <img style={{ height: "auto", width: "60vw", position: "relative", left: "15vw", boxShadow: "box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );" }} alt="" src="https://i.ibb.co/89dpvVX/Rotato-Snapshot-Black.png"></img>
 
-                                <img style={{ height: "auto", width: "20vw", position: "relative", left: "-10vw", boxShadow: "box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );" }} alt="" src="https://i.ibb.co/rHfLZwc/Rotato-Snapshot-White.png"></img>
+                                <img style={{ height: "auto", width: "60vw", position: "relative", left: "-15vw", boxShadow: "box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );" }} alt="" src="https://i.ibb.co/rHfLZwc/Rotato-Snapshot-White.png"></img>
                             </HStack>
                         </VStack>
                     </Box>
