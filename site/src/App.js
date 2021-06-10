@@ -26,7 +26,7 @@ function App() {
 
           </Box>
         </VStack>
-      </ChakraProvider>
+      </ChakraProvider >
     );
   } else {
     return (
@@ -44,7 +44,6 @@ function App() {
               <img style={{ height: "auto", width: "100vw", position: "relative" }} alt="" src="https://media.discordapp.net/attachments/692861972731002995/852534965886910484/Simulator_Screen_Shot_-_iPhone_12_Pro_Max_-_2021-06-10_at_14.07.59.png?width=578&height=1251"></img>
               <img style={{ height: "auto", width: "100vw", position: "relative", top: "-60vh" }} alt="" src="https://media.discordapp.net/attachments/692861972731002995/852534963898548304/Simulator_Screen_Shot_-_iPhone_12_Pro_Max_-_2021-06-10_at_14.07.56.png?width=578&height=1251"></img>
             </VStack>
-
           </Box>
         </VStack>
       </ChakraProvider>
